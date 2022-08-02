@@ -9,7 +9,8 @@ doc = """
          which can be used for mapping new examples. An optimal scenario will allow for the 
          algorithm to correctly determine the class labels for unseen instances. This requires 
          the learning algorithm to generalize from the training data to unseen situations in a 
-         'reasonable' way (see inductive bias)."""
+         'reasonable' way (see inductive bias).
+         asfqefqefewfewefguwouegfouewgfwefewfewf"""
 kw_extractor = yake.KeywordExtractor()
 keywords = kw_extractor.extract_keywords(doc)
 for kw in keywords:
